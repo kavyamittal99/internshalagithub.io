@@ -1,0 +1,175 @@
+img{
+padding-left:370px;
+}
+.ss{
+position:fixed;
+width:100%;
+background:#063247;
+font-family:'Ubuntu',sans-serif;
+transition:all 0.3s ease;
+z-index:999;
+}
+.ss .max-width{
+display:flex;
+align-items:center;
+padding:20;
+justify-content:space-between;
+}
+.max-width{
+max-width:1300;
+padding: 0 80px;
+margin:auto;
+}
+.ss .sa a{
+color:#fff;
+font-size:35px;
+font-weight:600;
+}
+.ss .main li{
+list-style:none;
+display:inline-block;
+}
+.ss .main li a{
+color:#fff;
+font size:50px;
+font-weight:500;
+margin-left:25px;
+}
+li{
+font-size:25px;
+}
+ul#fj  li{
+ display:inline;
+
+}
+#c li {
+display:inline;
+}
+#pc li {
+display:inline;
+
+}
+#it li {
+display:inline;
+}
+a li hover{
+  background-color: #111;
+}
+.cl {
+padding-left:18px;
+font-size:20px;
+}
+.pck{
+padding-left:18px;
+font-size:20px;
+}
+.itk{
+padding-left:18px;
+font-size:20px;
+}
+.fjk
+{
+padding-left:18px;
+font-size:20px;
+}
+h1{
+padding-left:40px;
+font-size:40px;
+}
+.h {
+padding-left:40px
+
+
+}
+p.k{
+padding-left:40px;
+font-size:25px;
+}
+p.j{
+padding-left:40px;
+font-size:25px;
+}
+h2{
+padding-left:40px;
+}
+.m
+{
+padding-left:40px;
+font-size:25px;
+}
+.n{
+padding-left:40px;
+font-size:25px;
+}
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+.searchTerm {
+  width: 100%;
+  border: 3px solid #00B4CC;
+  border-right: none;
+  padding: 20px;
+  height: 40px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+.searchTerm:focus{
+  color: #00B4CC;
+}
+.searchButton {
+  width: 40px;
+  height: 45px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+.wrap{
+  width: 30%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+footer{
+background:#063247;;
+height:auto;
+width:100vw;
+font-family:"Open Sans";
+padding-top:40px;
+color:white;
+}
+.footer-msg{
+display:flex;    
+text-align:justify;
+align-items:center;
+justify-content:center;
+}
+pre{
+font-size:20px;
+}
+.socials{
+list-style:none;
+dispay:inline;
+padding-top:210px;
+padding-right:120px;
+
+}
+.fa{
+display:inline;
+color:white;
+}
+.socials li{
+display:inline;
+padding-top:30px;
+padding-left:10px;
+}
+a{
+color:red;
+}
